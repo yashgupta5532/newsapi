@@ -13,6 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+![Screenshot 2023-07-04 172459](https://github.com/yashgupta5532/newsapi/assets/125652047/f201a29e-9aab-42a1-8497-c0c65456e541)
 
 ### `npm test`
 
@@ -23,6 +24,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 2023-07-04 172552](https://github.com/yashgupta5532/newsapi/assets/125652047/e1f35b61-b792-4d33-9067-a08bd6f9d7d6)
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
